@@ -1,4 +1,4 @@
-# Sameer Darekar - Data Scientist
+<h1> Sameer Darekar - Data Scientist </h1>
 
 <center><span style="font-family:Didot; font-size:2.5em;">Sameer Darekar</span></center>    
 <center><span style="font-family:Didot; font-size:1.5em;">**LinkedIn:** [https://www.linkedin.com/in/darekarsam](https://www.linkedin.com/in/darekarsam)</span></center>    
