@@ -4,7 +4,7 @@
 <h2>LinkedIn: [https://www.linkedin.com/in/darekarsam](https://www.linkedin.com/in/darekarsam)</h2>    
 <h2>Github: [https://github.com/darekarsam](https://github.com/darekarsam)</h2>   
 <h2> Website: [http://darekarsam.strikingly.com](http://darekarsam.strikingly.com)</h2>     
-<h2>Contact:** [sameer.v.darekar@gmail.com](mailto:sameer.v.darekar@gmail.com) | [812.671.3114](tel:8126713114)</h2>      
+<h2>Contact: [sameer.v.darekar@gmail.com](mailto:sameer.v.darekar@gmail.com) | [812.671.3114](tel:8126713114)</h2>      
 <h2>Mountain View, CA USA </h2>
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
