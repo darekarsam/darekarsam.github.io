@@ -1,3 +1,5 @@
+# Sameer Darekar - Data Scientist
+
 <center><span style="font-family:Didot; font-size:2.5em;">Sameer Darekar</span></center>    
 <center><span style="font-family:Didot; font-size:1.5em;">**LinkedIn:** [https://www.linkedin.com/in/darekarsam](https://www.linkedin.com/in/darekarsam)</span></center>    
 <center><span style="font-family:Didot; font-size:1.5em;">**Github:** [https://github.com/darekarsam](https://github.com/darekarsam)</span></center>   
